@@ -42,3 +42,6 @@ while True:
 video_capture.release()
 cv2.destroyAllWindows()
 
+
+
+## new code is being written
