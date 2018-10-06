@@ -1,7 +1,7 @@
 import cv2
 import sys
 from time import sleep
-
+##new change
 cascPath = "haarcascade_licence.xml"
 faceCascade = cv2.CascadeClassifier(cascPath)
 video_capture = cv2.VideoCapture(0)
